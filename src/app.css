@@ -360,7 +360,7 @@ li{
 .information{
   padding-top:50px;
   padding-bottom: 150px;
-  background-image: url(./src/assets/informatii.jpg);
+  background-image: url("./public/assets/informatii.jpeg");
   background-position: bottom right 0px;
   background-repeat: no-repeat;
   background-size: 120% ;

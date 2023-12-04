@@ -5,7 +5,7 @@ export const Hero = () =>{
             <span className="hero-one">Prelucrări mecanice</span> prin așchiere de serie <span className="hero-two">medie si mică</span>
             </div>
             <div className="hero-image">
-                <img src="/src/assets/cogwheels.jpg" alt="cogwheel" />
+                <img src="./public/assets/cogwheels.jpg" alt="cogwheel" />
             </div>
        </div>
     )
