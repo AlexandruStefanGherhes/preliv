@@ -361,7 +361,7 @@ li{
   padding-top:50px;
   padding-bottom: 150px;
   
-  background-image: url(./assets/informatii.jpg);
+  background-image: url(/assets/informatii.jpg);
   background-position: bottom right 0px;
   background-repeat: no-repeat;
   background-size: 120% ;
@@ -796,7 +796,7 @@ input::placeholder,textarea::placeholder{
   }
 
   .servicii{
-    background-image: url(./assets/backgorund.png);
+    background-image: url(/assets/backgorund.png);
     background-repeat: no-repeat;
     background-size: fill;
     background-position: right 25% top;

@@ -10,19 +10,19 @@ export const Utilaje = () =>{
                 </div>
                 <div className="lista-utilaje">
                     <div>
-                        <img src="./public/assets/icons/lathe.png" alt="lathe" />
+                        <img src="/assets/icons/lathe.png" alt="lathe" />
                         <p>Strunguri normale ( ∅900)</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/cnc.png" alt="cnc" />
+                        <img src="/assets/icons/cnc.png" alt="cnc" />
                         <p>Strunguri CNC</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/milling-machine.png" alt="milling" />
+                        <img src="/assets/icons/milling-machine.png" alt="milling" />
                         <p>Freze normale și CNC</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/milling.png" alt="milling2" />
+                        <img src="/assets/icons/milling.png" alt="milling2" />
                         <p>Mașini de danturat Klinngelnberg (FD 800; FD 500; FD 400; FD 250)</p>
                     </div>
                     <div>
