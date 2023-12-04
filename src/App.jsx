@@ -1,3 +1,4 @@
+import './App.css'
 import {
   createBrowserRouter,
   createRoutesFromElements,
@@ -12,7 +13,6 @@ import { Utilaje } from "./components/utilaje"
 import { Servicii } from "./components/servicii"
 import { Cookies } from "./components/cookies"
 import { Confidentialiate } from "./components/confidentialitate"
-import './App.css'
 import { Companie } from "./components/companie"
 
 const router = createBrowserRouter(
