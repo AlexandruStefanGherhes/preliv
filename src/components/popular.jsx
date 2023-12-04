@@ -5,19 +5,19 @@ export const Popular = () =>{
             <h1>Căteva dintre <span>produsele</span> noastre</h1>
             <div className="popular-list">
                 <div className="popular-one">
-                    <img src="./public/assets/flansa.jpg" alt="flansa" />
+                    <img src="/assets/flansa.jpg" alt="flansa" />
                     <h4>Flanșe</h4>
                 </div>
                 <div className="popular-one">
-                    <img src="./public/assets/conic.jpg" alt="conic" />
+                    <img src="/assets/conic.jpg" alt="conic" />
                     <h4>Roți Conice</h4>
                 </div>
                 <div className="popular-one">
-                    <img src="./public/assets/lant.png" alt="lant" />
+                    <img src="/assets/lant.png" alt="lant" />
                     <h4>Roți de lanț</h4>
                 </div>
                 <div className="popular-one">
-                    <img src="./public/assets/coroana.jpg" alt="coroana" />
+                    <img src="/assets/coroana.jpg" alt="coroana" />
                     <h4>Coroane</h4>
                 </div>
             </div>

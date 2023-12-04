@@ -26,27 +26,27 @@ export const Utilaje = () =>{
                         <p>Mașini de danturat Klinngelnberg (FD 800; FD 500; FD 400; FD 250)</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/milling-machine-two.png" alt="lathe" />
+                        <img src="/assets/icons/milling-machine-two.png" alt="lathe" />
                         <p>Mașini de mortezat (MD 250; MD 630;)</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/factory-machine.png" alt="machine" />
+                        <img src="/assets/icons/factory-machine.png" alt="machine" />
                         <p>Mașini de mortezat canale de pană</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/milling-two.png" alt="lathe" />
+                        <img src="/assets/icons/milling-two.png" alt="lathe" />
                         <p>Mașini de rectificat plan, interior, exterior (VOTAN 500)</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/drilling.png" alt="drilling" />
+                        <img src="/assets/icons/drilling.png" alt="drilling" />
                         <p>Mașini de broșat</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/lathe.png" alt="lathe" />
+                        <img src="/assets/icons/lathe.png" alt="lathe" />
                         <p>Mașini de raionat</p>
                     </div>
                     <div>
-                        <img src="./public/assets/icons/bending.png" alt="bending" />
+                        <img src="/assets/icons/bending.png" alt="bending" />
                         <p>FCF (Mașină de frezat caneluri)</p>
                     </div>
                     {/* <div>
