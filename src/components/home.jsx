@@ -1,7 +1,7 @@
 import { Header } from './header'
 // import { Menu } from './menu'
 import { Hero } from './hero'
-import { Companie } from './companie'
+import { Companie } from '../pages/companie'
 import { Catalogue } from './catalogue'
 import { Metale } from './metale'
 import { Popular } from './popular'

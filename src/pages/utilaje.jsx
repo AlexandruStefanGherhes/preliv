@@ -1,4 +1,4 @@
-import { Footer } from "./footer"
+import { Footer } from "../components/footer"
 export const Utilaje = () =>{
     return(
         <>
@@ -49,40 +49,7 @@ export const Utilaje = () =>{
                         <img src="/assets/icons/bending.png" alt="bending" />
                         <p>FCF (Mașină de frezat caneluri)</p>
                     </div>
-                    {/* <div>
-                        <img src="./src/assets/icons/press.png" alt="press" />
-                        <p>Mașini de debitat</p>
-                    </div> */}
                 </div>
-                {/* <div className="utilaje">
-                    <div className="container-one grid-img">
-                        <img src="./src/assets/grid/1.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-two grid-img">
-                        <img src="./src/assets/grid/3.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-three grid-img">
-                        <img src="./src/assets/grid/2.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-four grid-img">
-                        <img src="./src/assets/grid/4.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-five grid-img">
-                        <img src="./src/assets/grid/5.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-six grid-img">
-                        <img src="./src/assets/grid/6.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-seven grid-img">
-                        <img src="./src/assets/grid/10.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-eight grid-img">
-                        <img src="./src/assets/grid/8.jpg" alt="placeholder" />
-                    </div>
-                    <div className="container-nine grid-img">
-                        <img src="./src/assets/grid/9.jpg" alt="placeholder" />
-                    </div>
-                </div> */}
             </div>
             <Footer/>
         </>

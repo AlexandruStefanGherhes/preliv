@@ -1,5 +1,5 @@
 
-import { Footer } from "./footer"
+import { Footer } from "../components/footer"
 import { useState } from "react"
 export const Contact = () =>{
     const [name,setName] = useState('')

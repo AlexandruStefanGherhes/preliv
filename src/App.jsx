@@ -6,14 +6,13 @@ import {
   RouterProvider
 } from "react-router-dom"
 import { Home } from "./components/home"
-// import { Companie } from "./components/companie"
 import { Layout } from "./components/layout"
-import { Contact } from "./components/contact"
-import { Utilaje } from "./components/utilaje"
-import { Servicii } from "./components/servicii"
+import { Contact } from "./pages/contact"
+import { Utilaje } from "./pages/utilaje"
+import { Servicii } from "./pages/servicii"
 import { Cookies } from "./components/cookies"
 import { Confidentialiate } from "./components/confidentialitate"
-import { Companie } from "./components/companie"
+import { Companie } from "./pages/companie"
 
 const router = createBrowserRouter(
   createRoutesFromElements(

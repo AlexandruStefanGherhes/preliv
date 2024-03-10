@@ -27,9 +27,6 @@ export const Popular = () =>{
                     <h1>Pentru mai multe informații</h1>
                     <h1>contactează-ne: 0743088966</h1>
                 </div>
-                {/* <div className="information-image">
-                    <img src="./src/assets/informatii.jpg" alt="" />
-                </div> */}
             </div>
         </div>
     )
